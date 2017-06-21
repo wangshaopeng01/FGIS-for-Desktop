@@ -1,1 +1,1 @@
-# FGIS-for-Desktop
+# DotSpatialGISManager
